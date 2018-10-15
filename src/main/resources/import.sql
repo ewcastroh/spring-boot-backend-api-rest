@@ -1,0 +1,15 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Eimer', 'Castro', 'eimer@mail.com', '2018-10-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Alejandra', 'Marin', 'alejandra@mail.com', '2018-10-12');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Duvan', 'Castro', 'duvan@mail.com', '2018-10-11');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Luisa', 'Hincapie', 'luisa@mail.com', '2018-10-10');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Manuel', 'Castro', 'manuel@mail.com', '2018-10-09');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Samantha', 'Castro', 'samantha@mail.com', '2018-10-08');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Mona', 'Marin', 'mona@mail.com', '2018-10-07');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Nery', 'Cardenas', 'nery@mail.com', '2018-10-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Jaime', 'Marin', 'jaime@mail.com', '2018-10-05');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Samuel', 'Cardenas', 'samuel@mail.com', '2018-10-04');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Juan', 'Marin', 'juan@mail.com', '2018-10-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Adriana', 'Marin', 'adriana@mail.com', '2018-10-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Kenton', 'Cardenas', 'kenton@mail.com', '2018-10-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('John', 'Smith', 'john@mail.com', '2018-10-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Rick', 'Flair', 'eimer@mail.com', '2018-10-12');
